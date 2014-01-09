@@ -1,5 +1,5 @@
 {
-  "name": "https-browserify",
+  "name": "https-browserify-ws",
   "version": "0.0.0",
   "description": "https module compatability for browserify",
   "main": "index.js",
